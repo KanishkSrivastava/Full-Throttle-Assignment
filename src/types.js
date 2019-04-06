@@ -1,0 +1,6 @@
+export const CHANGE_COST = 'CHANGE_COST';
+export const CHANGE_TIME = 'CHANGE_TIME';
+export const LOADING = 'LOADING';
+export const DONE_LOADING = 'DONE_LOADING';
+export const FEETCH_PAYMENTS = 'FETCH_PAYMENTS';
+export const FEETCH_PAYMENTS_ERROR = 'FEETCH_PAYMENTS_ERROR';
