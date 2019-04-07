@@ -8,12 +8,12 @@ import Button from '@material-ui/core/Button';
 const Navbar = () => (
   <AppBar>
     <Grid container justify='space-between' alignItems='center'>
-      <Grid items xs={11}>
+      <Grid items xs={9}>
         <Typography variant='h4' color='inherit' style={{ margin: 15 }}>
-          Full Throttle Labs
+          FullThrottle Labs
         </Typography>
       </Grid>
-      <Grid item xs={1}>
+      <Grid item xs={3}>
         <Button color='inherit' variant='contained'>
           <a style={{ textDecoration: 'none' }} target='blank' href='https://github.com/KanishkSrivastava/Full-Throttle-Assignment.git'>
             GitHub
